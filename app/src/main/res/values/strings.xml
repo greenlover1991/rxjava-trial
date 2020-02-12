@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hotgists</string>
+    <string name="lbl_gists_count">%1$d gists</string>
+    <string name="lbl_favorite">Favorite</string>
+</resources>
